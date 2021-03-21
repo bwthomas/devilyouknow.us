@@ -1,7 +1,9 @@
 ---
 templateKey: index-page
 title: Elect Blake Thomas
-image: /img/campaign-sign.png
+image: /img/devilyouknow-banner.png
+heading: " "
+subheading: " "
 mainpitch:
   title: Why Blake?
   description: >
@@ -43,6 +45,7 @@ intro:
         right. As a member of the District 121 School Board, I will seek to
         uphold & promote these values & see our institutions do the same.
   description: " "
+  heading: " "
 main:
   description: " "
   image1:
@@ -54,4 +57,5 @@ main:
   image3:
     alt: Elect Blake Thomas
     image: /img/wths-blue-devil.png
+  heading: " "
 ---
