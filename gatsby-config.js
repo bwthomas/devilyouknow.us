@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Elect Blake Thomas',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Official site of the campaign to elect Blake Thomas to Illinois School District 121 School Board. Go Blue Devils!',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
