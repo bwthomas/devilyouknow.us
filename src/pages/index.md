@@ -1,70 +1,64 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Elect Blake Thomas
+image: /img/campaign-sign.png
+heading: Elect Blake Thomas
+subheading: School Board, District 121
 mainpitch:
-  title: Why Kaldi
+  title: Why Blake?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Our school district has been mismanaged. Over the years our finances have
+    deteriorated to the point of crisis, and most recently with the COVID-19
+    pandemic, but also in terms of the lack of alignment on priorities between
+    the school board and members of the community most directly impacted, namely
+    students, parents and educators. As a member of the community, I have for
+    years been a consistent advocate for better management, but my conscience
+    has pushed me to seek a more active role.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  You can read more about my platform
+  [here](https://twitter.com/dijjnn/status/1308258189675290624?s=20), or connect
+  with my campaign on [facebook](https://www.facebook.com/ElectBlakeThomas)
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        *Education as Purpose*
+        The school & board exist to help students, teachers & staff facilitate an
+        education to prepare students to engage meaningfully with their community. I
+        view all decisions first from the lens of, "how does this help the school serve
+        the community?"
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        *Pragmatic Rigor*
+        We should be passionate in our purpose & dispassionate in our plans, always with
+        an eye on the good we can achieve with our resources. I commit to rigor in my
+        advocacy, & to seek information, ideas & advice when facts are sparse.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        *The Virtue of Value*
+        I believe in investing resources to achieve results with value. Public education
+        is a public endeavor, not a commercial exercise, & should be funded according to
+        the mission. Resources managed wisely to achieve the most good, not only to
+        reduce cost.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        *The Value of Virtue*
+        Justice, diversity, equity, inclusion, health, kindness—all of these are worthy
+        pursuits of a community in their own right. As a member of the District 121
+        School Board, I will seek to uphold & promote these values & see our
+        institutions do the same.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Elect Blake Thomas
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Elect Blake Thomas
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Elect Blake Thomas
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Elect Blake Thomas
     image: /img/products-grid1.jpg
 ---
