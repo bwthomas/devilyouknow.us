@@ -8,9 +8,6 @@ import Features from '../components/Features'
 export const IndexPageTemplate = ({
   image,
   title,
-  mainpitch,
-  description,
-  intro,
 }) => (
   <div>
     <div
@@ -27,30 +24,31 @@ export const IndexPageTemplate = ({
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <div className="content">
-                <div className="content">
-                  <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
-                  </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
+          <div className="content">
+            <div className="content">
+              <div className="tile">
+                <h1 className="title">{title}</h1>
+              </div>
+              <div>
+                  <p>
+                    Our school district has been mismanaged. Over the years our finances have
+                    deteriorated to the point of crisis, and most recently with the COVID-19
+                    pandemic, but also in terms of the lack of alignment on priorities between
+                    the school board and members of the community most directly impacted, namely
+                    students, parents and educators. As a member of the community, I have for
+                    years been a consistent advocate for better management, but my conscience
+                    has pushed me to seek a more active role.
+                  </p>
+                  <p>
+                    You can read more about my <a href="/platform">platform</a>, or connect with my campaign on <a href="https://www.facebook.com/ElectBlakeThomas">facebook</a>
+                  </p>
                 </div>
-                <div className="columns">
-                  <div className="column is-12">
-                    <p>{description}</p>
-                  </div>
-                </div>
-                <Features gridItems={intro.blurbs} />
               </div>
             </div>
           </div>
         </div>
-      </div>
     </section>
-  </div>
+    </div>
 )
 
 IndexPageTemplate.propTypes = {
@@ -100,24 +98,6 @@ export const pageQuery = graphql`
               ...GatsbyImageSharpFluid
             }
           }
-        }
-        mainpitch {
-          title
-          description
-        }
-        description
-        intro {
-          blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            text
-          }
-          description
         }
       }
     }
