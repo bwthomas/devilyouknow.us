@@ -30,25 +30,25 @@ export const IndexPageTemplate = ({
                 <h1 className="title">{title}</h1>
               </div>
               <div>
-                  <p>
-                    Our school district has been mismanaged. Over the years our finances have
-                    deteriorated to the point of crisis, and most recently with the COVID-19
-                    pandemic, but also in terms of the lack of alignment on priorities between
-                    the school board and members of the community most directly impacted, namely
-                    students, parents and educators. As a member of the community, I have for
-                    years been a consistent advocate for better management, but my conscience
-                    has pushed me to seek a more active role.
-                  </p>
-                  <p>
-                    You can read more about my <a href="/platform">platform</a>, or connect with my campaign on <a href="https://www.facebook.com/ElectBlakeThomas">facebook</a>
-                  </p>
-                </div>
+                <p>
+                  Our school district has been mismanaged. Over the years our finances have
+                  deteriorated to the point of crisis, and most recently with the COVID-19
+                  pandemic, but also in terms of the lack of alignment on priorities between
+                  the school board and members of the community most directly impacted, namely
+                  students, parents and educators. As a member of the community, I have for
+                  years been a consistent advocate for better management, but my conscience
+                  has pushed me to seek a more active role.
+                </p>
+                <p>
+                  You can read more about my <a href="/platform">platform</a>, connect with <a href="https://twitter.com/dijjnn">me</a> or my <a href="https://www.facebook.com/ElectBlakeThomas">campaign</a>.
+                </p>
               </div>
             </div>
           </div>
         </div>
+      </div>
     </section>
-    </div>
+  </div>
 )
 
 IndexPageTemplate.propTypes = {
