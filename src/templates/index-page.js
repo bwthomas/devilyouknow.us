@@ -61,7 +61,7 @@ export const IndexPageTemplate = ({
                   better management, but my conscience has pushed me to seek a more active role.
                   I believe we can meet the moment together, and I plan to do
                   it with the community's support. You can read more about my <a href="/platform">
-                  platform</a>, connect with <a href="https://twitter.com/dijjnn">me</a> or my
+                  platform</a>, connect with <a href="https://twitter.com/dijjnn">me</a> or my 
                   <a href="https://www.facebook.com/ElectBlakeThomas">campaign</a>.
                 </p>
                 <p>
