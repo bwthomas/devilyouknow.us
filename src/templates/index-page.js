@@ -38,7 +38,7 @@ export const IndexPageTemplate = ({
                   and engagement that students and teachers bring to school every day. We see this
                   brand of thought most recently with the push to return to classrooms when metrics
                   from both the CDC and the Lake County Health Department told us that we were at
-                  "<em><a href='https://docs.google.com/presentation/d/1mY8layXi_PmHtL89Gb5B3SmA60Ch4HYH2xJY0Ko-Ggc/edit?usp=sharing'>
+                  "<em><a href='/return-to-school-data'>
                   the highest risk of community transmission in schools</a></em>," but this is a moment
                   decades in the making.
                 </p>
